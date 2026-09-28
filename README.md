@@ -50,7 +50,7 @@ To run this project locally:
 
 ```bash
 # Clone the repository
-git clone [https://github.com/TawhidulIslam0/loldle](https://github.com/TawhidulIslam0/loldle)
+git clone [https://github.com/TawhidulIslam0/Champion-Quest](https://github.com/TawhidulIslam0/Champion-Quest)
 
 # Install dependencies
 npm install
